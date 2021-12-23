@@ -14,6 +14,6 @@ class ShoppingCart:
     self.products.append(item)
     print(f'{item.name} has been added to your cart!')
   
-  def clear_cart(self):
+  def empty_cart(self):
     self.products = []
     print('Your cart is now empty.')

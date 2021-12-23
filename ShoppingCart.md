@@ -24,12 +24,12 @@ Customer Shopping Cart Lab
 
 <!-- As a developer, I want the Customer class to have a method to view all products in the customer’s shopping cart. (Loop over the shopping cart’s products list and print each product to the terminal) -->
 
-As a developer, I want to import the Customer and Product classes into main.py so I can instantiate a customer object as well as three Product objects and interact with the object’s methods:
+<!-- As a developer, I want to import the Customer and Product classes into main.py so I can instantiate a customer object as well as three Product objects and interact with the object’s methods: -->
 
-1. Print the customer’s name to the terminal
+<!-- 1. Print the customer’s name to the terminal -->
 
-2. Call the customer’s add product to shopping cart method three times and add the three products objects you created
+<!-- 2. Call the customer’s add product to shopping cart method three times and add the three products objects you created -->
 
-3. Call the customer’s view products method
+<!-- 3. Call the customer’s view products method -->
 
-4. Call the customer’s shopping cart’s get cart total method. Capture the total the method returns in a variable and print to the terminal
+<!-- 4. Call the customer’s shopping cart’s get cart total method. Capture the total the method returns in a variable and print to the terminal -->
