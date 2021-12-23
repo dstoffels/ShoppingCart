@@ -10,11 +10,11 @@ As a developer, I want to create a Customer, ShoppingCart, and Product class.
 
 <!-- As a developer, I want the ShoppingCart class to have class properties to keep track of the ShoppingCart’s products (list). -->
 
-As a developer, I want the ShoppingCart class to have a method to calculate and return the current total of all products in the cart.
+<!-- As a developer, I want the ShoppingCart class to have a method to calculate and return the current total of all products in the cart. -->
 
-As a developer, I want the ShoppingCart class to have a method to add a new product to the cart. (Appending to the products list)
+<!-- As a developer, I want the ShoppingCart class to have a method to add a new product to the cart. (Appending to the products list) -->
 
-As a developer, I want the ShoppingCart class to have a method to empty all products from the shopping cart.
+<!-- As a developer, I want the ShoppingCart class to have a method to empty all products from the shopping cart. -->
 
 As a developer, I want the Customer class to have class instance variables to keep track of the Customer’s name and shopping cart object. (Set the shopping cart instance variable equal to a new ShoppingCart object in the initializer HINT: You will have to import the ShoppingCart class into the customer.py file)
 
